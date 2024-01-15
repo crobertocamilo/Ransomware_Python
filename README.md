@@ -3,7 +3,7 @@
 Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com patrocínio do [Santander](https://app.santanderopenacademy.com/pt-BR/).
 
 <div align="right">
-  <img src="https://github.com/crobertocamilo/sistema_bancario_python/raw/main/assets/logo.webp" alt="logo bootcamp" width=30%/>
+  <img src="https://github.com/crobertocamilo/Ransomware_Python/raw/main/assets/logo_bootcamp.webp" alt="logo bootcamp" width=30%/>
 </div>
 
 --- 
